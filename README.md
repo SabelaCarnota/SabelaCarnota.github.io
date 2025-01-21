@@ -1,7 +1,7 @@
 # SabelaCarnota.github.io
 # 💼 Sabela Carnota Ramos - Curriculum Vitae
 
-¡Bienvenido a mi repositorio! Aquí encontrarás el **Curriculum Vitae** de Sabela Carnota Ramos, un resumen de mi trayectoria académica, profesional y habilidades.
+¡Hola! Con esta página web os muestro mi CV.
 
 ---
 
@@ -35,8 +35,8 @@ Soy **Sabela Carnota Ramos**, una profesional apasionada por [tu especialidad o 
 ## 📬 Contacto
 
 Si deseas contactarme, aquí tienes mis datos:
-- **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
-- **Teléfono**: [+34 XXX XXX XXX](tel:+34XXXXXXXXX)
+- **Correo**: [tuemail@example.com](mailto:s.carnota.ramosl@gmail.com)
+- **Teléfono**: [+34 XXX XXX XXX](tel:+34 670 96 96 20)
 - **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/tuperfil)
 - **GitHub**: [Mi GitHub](https://github.com/tuusuario)
 
