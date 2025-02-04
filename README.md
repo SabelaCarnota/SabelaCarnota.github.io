@@ -1,51 +1,89 @@
 # SabelaCarnota.github.io
 # 💼 Sabela Carnota Ramos - Curriculum Vitae
+# 📄 Curriculum Vitae - Sabela Carnota Ramos
 
-¡Hola! Con esta página web os muestro mi CV.
-
----
-
-## 📄 Mi CV
-
-Puedes consultar o descargar mi CV desde el siguiente enlace:
-
-[Descargar CV en PDF](./Carnota_Ramos_Sabela_Curri.pdf)
+Bienvenido/a a mi perfil. Aquí puedes visualizar y descargar mi Curriculum Vitae.
 
 ---
 
-## 🌟 Sobre Mí
-
-Soy **Sabela Carnota Ramos**, una profesional apasionada por [tu especialidad o área de interés]. Me interesa contribuir a proyectos innovadores y desafiantes que impulsen el desarrollo y el crecimiento.
-
-### 📚 Formación Académica
-- [Detalle de estudios principales]
-- [Otros títulos, certificaciones, etc.]
-
-### 🏢 Experiencia Profesional
-- **[Posición más reciente]** en **[Empresa]**: [Descripción breve de responsabilidades y logros]
-- **[Otra experiencia relevante]**: [Descripción breve]
-
-### 🛠 Habilidades
-- **Idiomas**: [Idiomas que hablas y tu nivel]
-- **Herramientas y tecnologías**: [Ejemplo: Python, Excel, etc.]
-- **Otros**: [Cualquier habilidad adicional destacable]
+## 📌 Sobre mí
+Soy estudiante de segundo año del Máster en Ingeniería Industrial y MBA en la Universidad Pontificia Comillas ICAI-ICADE. Como profesional con orientación a objetivos y enfoque en sostenibilidad, considero de gran importancia la estrategia y mi experiencia.
 
 ---
 
-## 📬 Contacto
+## 🛠️ Experiencia
 
-Si deseas contactarme, aquí tienes mis datos:
-- **Correo**: [tuemail@example.com](mailto:s.carnota.ramosl@gmail.com)
-- **Teléfono**: [+34 XXX XXX XXX](tel:+34 670 96 96 20)
-- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/tuperfil)
-- **GitHub**: [Mi GitHub](https://github.com/tuusuario)
+**Septiembre 2024 - Actualidad**  
+**Open Innovation & Ecosystem Intern - ACCIONA**  
+Esta experiencia me está ayudando a desarrollar confianza y fluidez en aspectos clave del ámbito profesional, como la realización de presentaciones. Además, estoy obteniendo valiosos conocimientos sobre el ecosistema de startups y spin-offs.
 
 ---
 
-## 🚀 Cómo usar este repositorio
+## 🎓 Educación
 
-1. **Descargar los archivos**:
-   - Haz clic en `Code` y selecciona `Download ZIP`.
-2. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
+**2023-2025**  
+**Máster en MBA - ICADE**  
+Este máster me está proporcionando una sólida formación financiera y estratégica. Asimismo, mejora mis habilidades de gestión y liderazgo mediante un extenso trabajo en proyectos y presentaciones.
+
+**2023-2025**  
+**Máster en Ingeniería Industrial - ICAI**  
+A través de este máster, he profundizado en mis conocimientos técnicos y habilidades. Este programa me ha dado la oportunidad de trabajar en proyectos prácticos, como el diseño de un centro de datos. Además, mi tesis me permitió explorar y avanzar en el concepto de reutilización de elementos considerados residuos, contribuyendo a soluciones innovadoras y sostenibles.
+
+**2022-2023**  
+**Grado en Ingeniería Mecánica - Drexel University**  
+Esta experiencia me permitió sumergirme en un nuevo entorno cultural y adaptarme a un enfoque educativo diferente en una de las universidades más prestigiosas de Estados Unidos. Colaboré con un equipo diverso de individuos de varias nacionalidades y obtuve resultados sobresalientes que me valieron un lugar en la Lista de Honor.
+
+**2019-2023**  
+**Grado en Ingeniería Industrial - ICAI**
+
+**2009-2019**  
+**Título Profesional de Música - Colegio Obradoiro**  
+Además de perfeccionar mis habilidades de piano a un nivel muy alto, adquirí experiencia actuando en dúos, acompañando a bailarines y cantantes, y tocando en una orquesta.
+
+---
+
+## 🤝 Formación Complementaria
+
+**2017-2018**  
+**Voluntaria en Equus Zebra NGO**  
+Lideré un proyecto social tras ganar un concurso con mis amigos. Con los fondos obtenidos, nos dedicamos a apoyar a niños en riesgo de exclusión social mediante tareas educativas y excursiones organizadas.
+
+**2009-2019**  
+**Conciertos Benéficos**  
+Organicé y actué en numerosos conciertos benéficos durante mi trayectoria académica musical.
+
+---
+
+## 🔧 Habilidades
+
+- Comunicación
+- Perseverancia
+- Liderazgo
+- Habilidades analíticas
+
+---
+
+## 🌍 Idiomas
+
+- **Español**: Nativo  
+- **Inglés**: Avanzado  
+- **Francés**: Básico  
+- **Gallego**: Nativo
+
+---
+
+## 📂 Descargar mi CV
+
+Puedes descargar mi CV en formato PDF haciendo clic en el siguiente enlace:
+
+[📥 Descargar CV](Carnota_Ramos_Sabela_CV.pdf)
+
+---
+
+## 📞 Contacto
+
+- 📧 Correo: s.carnota.ramos@gmail.com  
+- 📍 Dirección: Madrid, España  
+- 📱 Teléfono: (+34) 670 96 96 20
+
+Si tienes cualquier consulta, no dudes en ponerte en contacto conmigo. ¡Gracias por tu interés!
